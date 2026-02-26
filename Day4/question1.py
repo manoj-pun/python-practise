@@ -1,0 +1,1 @@
+#Write a function is_palindrome(s) that returns True if a string is a palindrome without using slicing.
